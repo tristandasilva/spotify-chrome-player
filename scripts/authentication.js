@@ -28,9 +28,10 @@ async function generateCodeVerify(codeVerify) {
 // Authorization and Access Token for Authentication
 //----------------------------------------------------
 function authorization() {
-  const clientId = "5b338b4d10ee44f18513726b9af414fb";
-  const redirectUri = window.location.origin;
+  const clientId = '5b338b4d10ee44f18513726b9af414fb';
+  const redirectUri = window.location.origin + '/';
   let codeVerify = generateRandomString(128);
+
   var oauthUrl;
 
   generateCodeVerify(codeVerify).then((codeChallenge) => {
@@ -49,7 +50,7 @@ function authorization() {
       code_challenge_method: 'S256',
       code_challenge: codeChallenge,
     });
-    
+
     window.location = 'https://accounts.spotify.com/authorize?' + args;
   });
 
