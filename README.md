@@ -33,6 +33,8 @@ For this deliverable, you have the following tasks based on your course outline 
 
 Also, include a document explaining task distribution between team members.
 
+[CLICK HERE FOR TASK DISTRIBUTION](https://drive.google.com/file/d/1piJe2UvzHpJZYtLgf-P2Pm0AB8WpJfeL/view?usp=sharing)
+
 ### Deliverable 2
 
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
