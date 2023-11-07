@@ -2,6 +2,8 @@
 
 This template repository is the starter project for Web Services project. Written in HTML/CSS/JavaScript/React.js/Node.js/Express.js.
 
+[CLICK HERE FOR FINAL REPORT](https://docs.google.com/document/d/1ysY1DAsTXbjlieGTFz_gwGkElfNS23b-MCi3ZhI0wN8/edit?usp=sharing)
+
 ## Deliverables
 
 [Click here to view project proposal presentation](https://docs.google.com/presentation/d/1AXguj0c1HO43YrFlYmc2UgMp56H3QxALVl7zmdekDUs/edit?usp=sharing)
